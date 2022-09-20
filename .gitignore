@@ -24,3 +24,4 @@ yarn-error.log*
 gulpfile.js
 package-lock.json
 package.json
+settings.json
